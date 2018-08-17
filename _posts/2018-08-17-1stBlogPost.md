@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
+title: "Sample template"
 date: 2018-08-17
 ---
 
